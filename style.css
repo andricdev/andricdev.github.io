@@ -37,6 +37,10 @@ body {
   line-height: 38px;
 }
 
+.email span {
+  text-decoration: underline;
+}
+
 .content p {
   font-family: 'Annie Use Your Telescope', cursive;
   font-size: 28px;
